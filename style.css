@@ -1,0 +1,30 @@
+body {
+  background-color: #F0F0F0;
+  background-image: url("blue_abstract_background.jpg");
+  background-size: cover;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%;
+}
+
+img {
+  border-radius: 50%;
+  height: 200px;
+  width: 150px;
+}
+
+h2 {
+  color:purple;
+}
+
+h4 {
+  color: #1E212D;
+}
+
+a:hover {
+  color: cyan;
+}
